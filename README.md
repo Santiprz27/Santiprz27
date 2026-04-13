@@ -57,5 +57,7 @@ Estudiante de informática apasionado por el desarrollo de software y soluciones
 <p align="center"> <img src="barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
 <br>
 <p align="center" style="font-size: 0.8em; color: #888; padding-top: 10px;">
-    <img src="mate.gif" alt="Mate" width="30%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
+    
+![Mis Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SzntiDev&show_icons=true&theme=tokyonight&border_radius=10)
+<img src="mate.gif" alt="Mate" width="30%" style="max-height: 250px; object-fit: cover; border-radius: 8px;">
 </p>
