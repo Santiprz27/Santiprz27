@@ -53,6 +53,7 @@ Estudiante de informática apasionado por el desarrollo de software y soluciones
   <a href="https://confluence.atlassian.com/jirasoftware" target="_blank"><img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira"></a>
   <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge" alt="Antigravity">
 </p>
+<p align="center"> <img src="barloading.gif" alt="barloading" width="100%" style="max-height: 250px; object-fit: cover; border-radius: 8px;"> </p>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SzntiDev&show_icons=true&theme=tokyonight&border_radius=15&title_color=F7C843&icon_color=E0A800&text_color=FCE38A&bg_color=0D1117" height="180"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="mate.gif" height="180" style="border-radius: 12px;"/>
